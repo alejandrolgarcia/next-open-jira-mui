@@ -1,4 +1,4 @@
 
 export * from './UIContext';
-export * from './UIPrivider';
+export * from './UIProvider';
 export * from './uiReducer';
