@@ -2,7 +2,7 @@
 
 Para correr localmente el proyecto y generar la base de datos, ejecute el comando:
 
-````
+```
 docker-compose up -d
 ```
 
